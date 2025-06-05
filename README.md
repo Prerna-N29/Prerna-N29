@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm PRERNA 👋..!!</h1>
+<h1 align="center">Hey there! I'm PRERNA..!!</h1>
 <h3 align="center">EXCITED TO LEARN | ASPIRING TO SUCCEED</h3>
 
 <p align="center">
