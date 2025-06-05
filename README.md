@@ -28,7 +28,7 @@ Tools: Git • VS Code • Canva • Figma
  
 </p>
 
-<h2 align="center">Thanks for reading👋..!!</h2>
+<h2 align="center">Thanks..!!</h2>
 <!---
 Prerna-N29/Prerna-N29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
