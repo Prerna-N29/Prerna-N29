@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- Currently building a **Water Tracker app** webapp CUZ<br> I figured the only way we can gain knowledge is by actually working on it.
+- Currently trying out front end based projects CUZ<br> I figured the only way we can gain knowledge is by actually working on it.
 - SEM 1 : 8.5 CGPA
 
 ---
