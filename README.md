@@ -2,7 +2,7 @@
 <h3 align="center">EXCITED TO LEARN | ASPIRING TO SUCCEED</h3>
 
 <p align="center">
-🌱 First-Year CSE Student | 💻 Web Dev + AI Explorer | 📚 Obsessive Novel reader <br>
+🌱 2nd year CSE Student | 💻 Web Dev + AI Explorer | 📚 Obsessive Novel reader <br>
 ✨ Manifesting Internships & Projects ✨  
 </p>
 
