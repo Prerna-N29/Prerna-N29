@@ -2,7 +2,7 @@
 <h3 align="center">EXCITED TO LEARN | ASPIRING TO SUCCEED</h3>
 
 <p align="center">
-2nd year CSE Student |  Web Dev + AI Explorer |  Obsessive Novel reader <br>
+3rd year CSE Student |  Web Dev + AI Explorer |  Obsessive Novel reader <br>
 ✨ Manifesting Internships & Projects ✨  
 </p>
 
@@ -10,7 +10,7 @@
 
 ###  About Me
 - Currently trying out front end based projects CUZ<br> I figured the only way we can gain knowledge is by actually working on it.
-- 1st Year: 8.43 CGPA
+- CGPA : 8.57
 
 ---
 
